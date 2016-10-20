@@ -9,7 +9,7 @@
 require( 'lib/Beyonic.php' );
 
 /* Set the API Key to be used in all requests */
-Beyonic::setApiKey( '74ec697d07e59bedeff21a14ad150a05bb9779a6' );
+Beyonic::setApiKey( 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' );
 
 /* Get the available Collection Requests */
 $resp = Beyonic_Collection_Request::getAll();
